@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <v-container fluid>
     <JoinTheForce />
     <CsocTracks :items="items" />
-  </div>
+  </v-container>
 </template>
 
 <script>
